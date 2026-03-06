@@ -1,5 +1,4 @@
- 0x3eb94726e178d4b5f71b0b415a2d828e9c48632c
-<!--
+Passionate about blockchain, AI, and open-source contributions<!--
 **maniapulai/maniapulai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
